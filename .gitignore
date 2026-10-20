@@ -1,0 +1,16 @@
+config.yaml
+.env
+**/node_modules/
+**/dist/
+**/target/
+env/tools/
+work/
+*.log
+*.pid
+.idea/
+.vscode/
+*.iml
+test/**/screenshots/
+test/**/runtime/
+test/**/results/
+back/src/main/resources/static/

@@ -1,0 +1,16 @@
+students: HTTP pagination passed
+administrators: HTTP pagination passed
+categories: HTTP pagination passed
+books: HTTP pagination passed
+copies: HTTP pagination passed
+acquisitions: HTTP pagination passed
+loans: HTTP pagination passed
+fines: HTTP pagination passed
+blacklist: HTTP pagination passed
+resources: HTTP pagination passed
+reservations: HTTP pagination passed
+activities: HTTP pagination passed
+registrations: HTTP pagination passed
+announcements: HTTP pagination passed
+visits: HTTP pagination passed
+Production HTML, two role dashboards and Excel template: passed

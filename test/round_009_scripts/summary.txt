@@ -1,0 +1,5 @@
+build.ps1: syntax passed
+common.ps1: syntax passed
+setup-database.ps1: syntax passed
+start.ps1: syntax passed
+stop.ps1: syntax passed
